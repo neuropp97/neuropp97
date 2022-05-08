@@ -18,7 +18,5 @@
   <img align="center" alt="neuroJS" height="30" widht-"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="neuroJS" height="30" widht-"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-  
-  <div>
-    ![Snake animation](https://github.com/neuropp97/neuropp97/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
+![Snake animation](https://github.com/neuropp97/neuropp97/blob/output/github-contribution-grid-snake.svg)
